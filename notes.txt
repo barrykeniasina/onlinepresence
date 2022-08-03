@@ -1,0 +1,9 @@
+docker exec -it project2a_sqlserver_1 /opt/mssql-tools/bin/sqlcmd \ -S localhost -U SA -P "HvQfOKgVcNMM0G3MX755qr9n7!" \ -Q "RESTORE DATABASE licdata FROM DISK = '/var/opt/mssql/backup/LICDATA_Backup_089622.bak' WITH MOVE 'LicData' TO '/var/opt/mssql/data/licdata.mdf', MOVE 'LicData_log' TO '/var/opt/mssql/data/licdata_log.ldf'"
+
+
+
+
+
+docker exec -it project2a_sqlserver_1 /opt/mssql-tools/bin/sqlcmd \ -S localhost -U SA -P "HvQfOKgVcNMM0G3MX755qr9n7!" \ -Q 'RESTORE DATABASE licdata FROM DISK = '/var/opt/mssql/backup/LICDATA_Backup_089622.bak' WITH MOVE 'LicData' TO '/var/opt/mssql/data/licdata.mdf', MOVE 'LicData_log' TO '/var/opt/mssql/data/licdata_log.ldf'"
+
+FF@it2022

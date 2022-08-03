@@ -1,0 +1,42 @@
+version: "3.9"
+
+services:
+  sqlserver:
+    build: ./docker/sqlserver
+    hostname: 'sqlserver'
+    environment:
+      ACCEPT_EULA: Y
+      SA_PASSWORD: "${DB_PASSWORD:-HvQfOKgVcNMM0G3MX755qr9n7!}"
+      MSSQL_PID: 'Developer'
+      MSSQL_TCP_PORT: '${DB_PORT:-1433}'
+      DB_PASSWORD: '${DB_PASSWORD:-HvQfOKgVcNMM0G3MX755qr9n7!}'
+      DB_DATABASE: '${DB_DATABASE:-main}'
+      DB_USERNAME: '${DB_USERNAME:-sa}'
+      DB_PORT: '${DB_PORT:-1433}'
+      DB_SCHEMA: '${DB_SCHEMA:-app}'
+    ports:
+      - '${DB_PORT:-1433}:1433'
+    volumes:
+      - ms-sqlserver-data:/var/opt/mssql
+
+  app:
+    build: ./docker/php
+    volumes:
+      - ./:/var/www/project2a
+    depends_on:
+      - sqlserver
+    working_dir: /var/www/project2a
+
+  nginx:
+    build: ./docker/nginx
+    restart: always
+    depends_on:
+      - app
+    ports:
+      - '${APP_PORT:-8081}:80'
+    volumes:
+       - ./:/var/www/project2a
+
+volumes:
+  ms-sqlserver-data:
+    driver: local

@@ -1,0 +1,1244 @@
+{
+  "RECORDS": [
+    {
+      "Id": 1,
+      "Source_Entity_Code": "PRV",
+      "Code_Name": "Malaita",
+      "Code_Current": "1",
+      "Code_Notes": "MAL",
+      "Code_Memo": null,
+      "SPC_Id": null,
+      "SSMA_TimeStamp": "AAAAAAALksE="
+    },
+    {
+      "Id": 2,
+      "Source_Entity_Code": "PRV",
+      "Code_Name": "Guadacanal",
+      "Code_Current": "1",
+      "Code_Notes": "GUA",
+      "Code_Memo": null,
+      "SPC_Id": null,
+      "SSMA_TimeStamp": "AAAAAAALksI="
+    },
+    {
+      "Id": 3,
+      "Source_Entity_Code": "PRV",
+      "Code_Name": "Isabel",
+      "Code_Current": "1",
+      "Code_Notes": "ISA",
+      "Code_Memo": null,
+      "SPC_Id": null,
+      "SSMA_TimeStamp": "AAAAAAALksM="
+    },
+    {
+      "Id": 4,
+      "Source_Entity_Code": "PRV",
+      "Code_Name": "Makira/Ulawa",
+      "Code_Current": "1",
+      "Code_Notes": "MAK",
+      "Code_Memo": null,
+      "SPC_Id": null,
+      "SSMA_TimeStamp": "AAAAAAALksQ="
+    },
+    {
+      "Id": 5,
+      "Source_Entity_Code": "PRV",
+      "Code_Name": "Choiseul",
+      "Code_Current": "1",
+      "Code_Notes": "CHO",
+      "Code_Memo": null,
+      "SPC_Id": null,
+      "SSMA_TimeStamp": "AAAAAAALksU="
+    },
+    {
+      "Id": 6,
+      "Source_Entity_Code": "PRV",
+      "Code_Name": "Western",
+      "Code_Current": "1",
+      "Code_Notes": "WES",
+      "Code_Memo": null,
+      "SPC_Id": null,
+      "SSMA_TimeStamp": "AAAAAAALksY="
+    },
+    {
+      "Id": 7,
+      "Source_Entity_Code": "PRV",
+      "Code_Name": "Central",
+      "Code_Current": "1",
+      "Code_Notes": "CEN",
+      "Code_Memo": null,
+      "SPC_Id": null,
+      "SSMA_TimeStamp": "AAAAAAALksc="
+    },
+    {
+      "Id": 8,
+      "Source_Entity_Code": "PRV",
+      "Code_Name": "Temotu",
+      "Code_Current": "1",
+      "Code_Notes": "TEM",
+      "Code_Memo": null,
+      "SPC_Id": null,
+      "SSMA_TimeStamp": "AAAAAAALksg="
+    },
+    {
+      "Id": 9,
+      "Source_Entity_Code": "PRV",
+      "Code_Name": "Rennbel",
+      "Code_Current": "1",
+      "Code_Notes": "REN",
+      "Code_Memo": null,
+      "SPC_Id": null,
+      "SSMA_TimeStamp": "AAAAAAALksk="
+    },
+    {
+      "Id": 10,
+      "Source_Entity_Code": "BNM",
+      "Code_Name": "ANZ",
+      "Code_Current": "1",
+      "Code_Notes": null,
+      "Code_Memo": null,
+      "SPC_Id": null,
+      "SSMA_TimeStamp": "AAAAAAALkso="
+    },
+    {
+      "Id": 11,
+      "Source_Entity_Code": "BNM",
+      "Code_Name": "Westpac",
+      "Code_Current": "1",
+      "Code_Notes": null,
+      "Code_Memo": null,
+      "SPC_Id": null,
+      "SSMA_TimeStamp": "AAAAAAALkss="
+    },
+    {
+      "Id": 12,
+      "Source_Entity_Code": "BNM",
+      "Code_Name": "NBSI",
+      "Code_Current": "1",
+      "Code_Notes": null,
+      "Code_Memo": null,
+      "SPC_Id": null,
+      "SSMA_TimeStamp": "AAAAAAALksw="
+    },
+    {
+      "Id": 13,
+      "Source_Entity_Code": "PYM",
+      "Code_Name": "Cash",
+      "Code_Current": "1",
+      "Code_Notes": null,
+      "Code_Memo": null,
+      "SPC_Id": null,
+      "SSMA_TimeStamp": "AAAAAAALks0="
+    },
+    {
+      "Id": 14,
+      "Source_Entity_Code": "PYM",
+      "Code_Name": "Cheque",
+      "Code_Current": "1",
+      "Code_Notes": null,
+      "Code_Memo": null,
+      "SPC_Id": null,
+      "SSMA_TimeStamp": "AAAAAAALks4="
+    },
+    {
+      "Id": 15,
+      "Source_Entity_Code": "PYM",
+      "Code_Name": "Direct Credit to Fisheries Account",
+      "Code_Current": "1",
+      "Code_Notes": null,
+      "Code_Memo": null,
+      "SPC_Id": null,
+      "SSMA_TimeStamp": "AAAAAAALks8="
+    },
+    {
+      "Id": 16,
+      "Source_Entity_Code": "PAY",
+      "Code_Name": "Bunkering Vessel Fee",
+      "Code_Current": "1",
+      "Code_Notes": null,
+      "Code_Memo": null,
+      "SPC_Id": null,
+      "SSMA_TimeStamp": "AAAAAAALktA="
+    },
+    {
+      "Id": 17,
+      "Source_Entity_Code": "PAY",
+      "Code_Name": "Carrier Vessel Fee",
+      "Code_Current": "1",
+      "Code_Notes": null,
+      "Code_Memo": null,
+      "SPC_Id": null,
+      "SSMA_TimeStamp": "AAAAAAALktE="
+    },
+    {
+      "Id": 18,
+      "Source_Entity_Code": "PAY",
+      "Code_Name": "Export Permit Fee",
+      "Code_Current": "1",
+      "Code_Notes": null,
+      "Code_Memo": null,
+      "SPC_Id": null,
+      "SSMA_TimeStamp": "AAAAAAALktI="
+    },
+    {
+      "Id": 19,
+      "Source_Entity_Code": "PAY",
+      "Code_Name": "Fish Processing Establishment",
+      "Code_Current": "1",
+      "Code_Notes": null,
+      "Code_Memo": null,
+      "SPC_Id": null,
+      "SSMA_TimeStamp": "AAAAAAALktM="
+    },
+    {
+      "Id": 20,
+      "Source_Entity_Code": "PAY",
+      "Code_Name": "Fishing Vessel Fees",
+      "Code_Current": "1",
+      "Code_Notes": null,
+      "Code_Memo": null,
+      "SPC_Id": null,
+      "SSMA_TimeStamp": "AAAAAAALktQ="
+    },
+    {
+      "Id": 21,
+      "Source_Entity_Code": "PAY",
+      "Code_Name": "Observer Fees",
+      "Code_Current": "1",
+      "Code_Notes": null,
+      "Code_Memo": null,
+      "SPC_Id": null,
+      "SSMA_TimeStamp": "AAAAAAALktU="
+    },
+    {
+      "Id": 22,
+      "Source_Entity_Code": "PAY",
+      "Code_Name": "Port Entry Fee",
+      "Code_Current": "1",
+      "Code_Notes": null,
+      "Code_Memo": null,
+      "SPC_Id": null,
+      "SSMA_TimeStamp": "AAAAAAALktY="
+    },
+    {
+      "Id": 23,
+      "Source_Entity_Code": "PAY",
+      "Code_Name": "Transhipment Levy",
+      "Code_Current": "1",
+      "Code_Notes": null,
+      "Code_Memo": null,
+      "SPC_Id": null,
+      "SSMA_TimeStamp": "AAAAAAALktc="
+    },
+    {
+      "Id": 24,
+      "Source_Entity_Code": "PAY",
+      "Code_Name": "Sale of equipment",
+      "Code_Current": "1",
+      "Code_Notes": null,
+      "Code_Memo": null,
+      "SPC_Id": null,
+      "SSMA_TimeStamp": "AAAAAAALktg="
+    },
+    {
+      "Id": 25,
+      "Source_Entity_Code": "PAY",
+      "Code_Name": "Duplicate licence fee",
+      "Code_Current": "1",
+      "Code_Notes": null,
+      "Code_Memo": null,
+      "SPC_Id": null,
+      "SSMA_TimeStamp": "AAAAAAALktk="
+    },
+    {
+      "Id": 26,
+      "Source_Entity_Code": "PAY",
+      "Code_Name": "Other",
+      "Code_Current": "1",
+      "Code_Notes": null,
+      "Code_Memo": null,
+      "SPC_Id": null,
+      "SSMA_TimeStamp": "AAAAAAALkto="
+    },
+    {
+      "Id": 27,
+      "Source_Entity_Code": "LTY",
+      "Code_Name": "Fish Processing Establishment",
+      "Code_Current": "1",
+      "Code_Notes": "SBL Processing Establishment - Details",
+      "Code_Memo": null,
+      "SPC_Id": null,
+      "SSMA_TimeStamp": "AAAAAAALkts="
+    },
+    {
+      "Id": 28,
+      "Source_Entity_Code": "LST",
+      "Code_Name": "Normal",
+      "Code_Current": "1",
+      "Code_Notes": null,
+      "Code_Memo": null,
+      "SPC_Id": null,
+      "SSMA_TimeStamp": "AAAAAAALktw="
+    },
+    {
+      "Id": 29,
+      "Source_Entity_Code": "LST",
+      "Code_Name": "Cancelled",
+      "Code_Current": "1",
+      "Code_Notes": null,
+      "Code_Memo": null,
+      "SPC_Id": null,
+      "SSMA_TimeStamp": "AAAAAAALkt0="
+    },
+    {
+      "Id": 30,
+      "Source_Entity_Code": "MZT",
+      "Code_Name": "EEZ",
+      "Code_Current": "1",
+      "Code_Notes": "Exclusive Economic Zone - Usually 200 miles",
+      "Code_Memo": null,
+      "SPC_Id": null,
+      "SSMA_TimeStamp": "AAAAAAALkt4="
+    },
+    {
+      "Id": 31,
+      "Source_Entity_Code": "MZT",
+      "Code_Name": "IW",
+      "Code_Current": "1",
+      "Code_Notes": "International Waters (High Seas)",
+      "Code_Memo": null,
+      "SPC_Id": null,
+      "SSMA_TimeStamp": "AAAAAAALkt8="
+    },
+    {
+      "Id": 32,
+      "Source_Entity_Code": "LDU",
+      "Code_Name": "Up to 12 months duration",
+      "Code_Current": "1",
+      "Code_Notes": null,
+      "Code_Memo": null,
+      "SPC_Id": null,
+      "SSMA_TimeStamp": "AAAAAAALkuA="
+    },
+    {
+      "Id": 33,
+      "Source_Entity_Code": "LDU",
+      "Code_Name": "Till the end of the calender year",
+      "Code_Current": "1",
+      "Code_Notes": null,
+      "Code_Memo": null,
+      "SPC_Id": null,
+      "SSMA_TimeStamp": "AAAAAAALkuE="
+    },
+    {
+      "Id": 34,
+      "Source_Entity_Code": "CST",
+      "Code_Name": "Operating",
+      "Code_Current": "1",
+      "Code_Notes": null,
+      "Code_Memo": null,
+      "SPC_Id": null,
+      "SSMA_TimeStamp": "AAAAAAALkuI="
+    },
+    {
+      "Id": 35,
+      "Source_Entity_Code": "CST",
+      "Code_Name": "Sunk or not able to operate",
+      "Code_Current": "1",
+      "Code_Notes": null,
+      "Code_Memo": null,
+      "SPC_Id": null,
+      "SSMA_TimeStamp": "AAAAAAALkuM="
+    },
+    {
+      "Id": 36,
+      "Source_Entity_Code": "FDO",
+      "Code_Name": "Local",
+      "Code_Current": "1",
+      "Code_Notes": null,
+      "Code_Memo": null,
+      "SPC_Id": null,
+      "SSMA_TimeStamp": "AAAAAAALkuQ="
+    },
+    {
+      "Id": 37,
+      "Source_Entity_Code": "FDO",
+      "Code_Name": "Foreign Chartered",
+      "Code_Current": "1",
+      "Code_Notes": null,
+      "Code_Memo": null,
+      "SPC_Id": null,
+      "SSMA_TimeStamp": "AAAAAAALkuU="
+    },
+    {
+      "Id": 38,
+      "Source_Entity_Code": "FDO",
+      "Code_Name": "Bilateral Access",
+      "Code_Current": "1",
+      "Code_Notes": null,
+      "Code_Memo": null,
+      "SPC_Id": null,
+      "SSMA_TimeStamp": "AAAAAAALkuY="
+    },
+    {
+      "Id": 39,
+      "Source_Entity_Code": "VSC",
+      "Code_Name": "Fishing Vessel",
+      "Code_Current": "1",
+      "Code_Notes": "Any vessel undertaking operations to catch fish directly or indirectly",
+      "Code_Memo": null,
+      "SPC_Id": null,
+      "SSMA_TimeStamp": "AAAAAAALkuc="
+    },
+    {
+      "Id": 40,
+      "Source_Entity_Code": "VSC",
+      "Code_Name": "Reefer/Carrier",
+      "Code_Current": "1",
+      "Code_Notes": "Enters zone for sole purpose of transhipping tuna to an overseas destination",
+      "Code_Memo": null,
+      "SPC_Id": null,
+      "SSMA_TimeStamp": "AAAAAAALkug="
+    },
+    {
+      "Id": 41,
+      "Source_Entity_Code": "VSC",
+      "Code_Name": "Tanker",
+      "Code_Current": "1",
+      "Code_Notes": "Fuel carrying vessel supplying fuel to other vessels",
+      "Code_Memo": null,
+      "SPC_Id": null,
+      "SSMA_TimeStamp": "AAAAAAALkuk="
+    },
+    {
+      "Id": 42,
+      "Source_Entity_Code": "MFO",
+      "Code_Name": "Tuna Longline",
+      "Code_Current": "1",
+      "Code_Notes": null,
+      "Code_Memo": null,
+      "SPC_Id": null,
+      "SSMA_TimeStamp": "AAAAAAALkuo="
+    },
+    {
+      "Id": 43,
+      "Source_Entity_Code": "MFO",
+      "Code_Name": "Tuna Pole and Line",
+      "Code_Current": "1",
+      "Code_Notes": null,
+      "Code_Memo": null,
+      "SPC_Id": null,
+      "SSMA_TimeStamp": "AAAAAAALkus="
+    },
+    {
+      "Id": 44,
+      "Source_Entity_Code": "MFO",
+      "Code_Name": "Tuna Purse Seine",
+      "Code_Current": "1",
+      "Code_Notes": null,
+      "Code_Memo": null,
+      "SPC_Id": null,
+      "SSMA_TimeStamp": "AAAAAAALkuw="
+    },
+    {
+      "Id": 45,
+      "Source_Entity_Code": "MFO",
+      "Code_Name": "Shark Longline",
+      "Code_Current": "1",
+      "Code_Notes": null,
+      "Code_Memo": null,
+      "SPC_Id": null,
+      "SSMA_TimeStamp": "AAAAAAALku0="
+    },
+    {
+      "Id": 46,
+      "Source_Entity_Code": "PAY",
+      "Code_Name": "Breach of Fisheries Act",
+      "Code_Current": "1",
+      "Code_Notes": null,
+      "Code_Memo": null,
+      "SPC_Id": null,
+      "SSMA_TimeStamp": "AAAAAAALku4="
+    },
+    {
+      "Id": 47,
+      "Source_Entity_Code": "PAY",
+      "Code_Name": "Fisheries Goods & Services",
+      "Code_Current": "1",
+      "Code_Notes": null,
+      "Code_Memo": null,
+      "SPC_Id": null,
+      "SSMA_TimeStamp": "AAAAAAALku8="
+    },
+    {
+      "Id": 48,
+      "Source_Entity_Code": "XCT",
+      "Code_Name": "Inshore Fish & Sharks",
+      "Code_Current": "1",
+      "Code_Notes": null,
+      "Code_Memo": null,
+      "SPC_Id": null,
+      "SSMA_TimeStamp": "AAAAAAALkvA="
+    },
+    {
+      "Id": 49,
+      "Source_Entity_Code": "XCT",
+      "Code_Name": "BDM",
+      "Code_Current": "1",
+      "Code_Notes": null,
+      "Code_Memo": null,
+      "SPC_Id": null,
+      "SSMA_TimeStamp": "AAAAAAALkvE="
+    },
+    {
+      "Id": 50,
+      "Source_Entity_Code": "XCT",
+      "Code_Name": "Corals",
+      "Code_Current": "1",
+      "Code_Notes": null,
+      "Code_Memo": null,
+      "SPC_Id": null,
+      "SSMA_TimeStamp": "AAAAAAALkvI="
+    },
+    {
+      "Id": 51,
+      "Source_Entity_Code": "XST",
+      "Code_Name": "Cooked",
+      "Code_Current": "1",
+      "Code_Notes": null,
+      "Code_Memo": null,
+      "SPC_Id": null,
+      "SSMA_TimeStamp": "AAAAAAALkvM="
+    },
+    {
+      "Id": 52,
+      "Source_Entity_Code": "XST",
+      "Code_Name": "Frozen",
+      "Code_Current": "1",
+      "Code_Notes": null,
+      "Code_Memo": null,
+      "SPC_Id": null,
+      "SSMA_TimeStamp": "AAAAAAALkvQ="
+    },
+    {
+      "Id": 53,
+      "Source_Entity_Code": "XST",
+      "Code_Name": "Fresh",
+      "Code_Current": "1",
+      "Code_Notes": null,
+      "Code_Memo": null,
+      "SPC_Id": null,
+      "SSMA_TimeStamp": "AAAAAAALkvU="
+    },
+    {
+      "Id": 54,
+      "Source_Entity_Code": "XST",
+      "Code_Name": "Live",
+      "Code_Current": "1",
+      "Code_Notes": null,
+      "Code_Memo": null,
+      "SPC_Id": null,
+      "SSMA_TimeStamp": "AAAAAAALkvY="
+    },
+    {
+      "Id": 55,
+      "Source_Entity_Code": "XCT",
+      "Code_Name": "Aquarium Fish",
+      "Code_Current": "1",
+      "Code_Notes": null,
+      "Code_Memo": null,
+      "SPC_Id": null,
+      "SSMA_TimeStamp": "AAAAAAALkvc="
+    },
+    {
+      "Id": 56,
+      "Source_Entity_Code": "XCT",
+      "Code_Name": "Crustacea",
+      "Code_Current": "1",
+      "Code_Notes": null,
+      "Code_Memo": null,
+      "SPC_Id": null,
+      "SSMA_TimeStamp": "AAAAAAALkvg="
+    },
+    {
+      "Id": 57,
+      "Source_Entity_Code": "XCT",
+      "Code_Name": "Gastropods",
+      "Code_Current": "1",
+      "Code_Notes": null,
+      "Code_Memo": null,
+      "SPC_Id": null,
+      "SSMA_TimeStamp": "AAAAAAALkvk="
+    },
+    {
+      "Id": 58,
+      "Source_Entity_Code": "XCT",
+      "Code_Name": "Invertibrate",
+      "Code_Current": "1",
+      "Code_Notes": null,
+      "Code_Memo": null,
+      "SPC_Id": null,
+      "SSMA_TimeStamp": "AAAAAAALkvo="
+    },
+    {
+      "Id": 59,
+      "Source_Entity_Code": "XCT",
+      "Code_Name": "Mollusc",
+      "Code_Current": "1",
+      "Code_Notes": null,
+      "Code_Memo": null,
+      "SPC_Id": null,
+      "SSMA_TimeStamp": "AAAAAAALkvs="
+    },
+    {
+      "Id": 60,
+      "Source_Entity_Code": "XCT",
+      "Code_Name": "Shark",
+      "Code_Current": "0",
+      "Code_Notes": null,
+      "Code_Memo": null,
+      "SPC_Id": null,
+      "SSMA_TimeStamp": "AAAAAAALkvw="
+    },
+    {
+      "Id": 61,
+      "Source_Entity_Code": "XCT",
+      "Code_Name": "Tuna & Billfish",
+      "Code_Current": "1",
+      "Code_Notes": null,
+      "Code_Memo": null,
+      "SPC_Id": null,
+      "SSMA_TimeStamp": "AAAAAAALkv0="
+    },
+    {
+      "Id": 62,
+      "Source_Entity_Code": "XST",
+      "Code_Name": "Chilled",
+      "Code_Current": "1",
+      "Code_Notes": null,
+      "Code_Memo": null,
+      "SPC_Id": null,
+      "SSMA_TimeStamp": "AAAAAAALkv4="
+    },
+    {
+      "Id": 63,
+      "Source_Entity_Code": "XST",
+      "Code_Name": "Fillet",
+      "Code_Current": "1",
+      "Code_Notes": null,
+      "Code_Memo": null,
+      "SPC_Id": null,
+      "SSMA_TimeStamp": "AAAAAAALkv8="
+    },
+    {
+      "Id": 64,
+      "Source_Entity_Code": "XCT",
+      "Code_Name": "Specimen",
+      "Code_Current": "1",
+      "Code_Notes": null,
+      "Code_Memo": null,
+      "SPC_Id": null,
+      "SSMA_TimeStamp": "AAAAAAALkwE="
+    },
+    {
+      "Id": 65,
+      "Source_Entity_Code": "XCT",
+      "Code_Name": "Marine Mammal",
+      "Code_Current": "1",
+      "Code_Notes": null,
+      "Code_Memo": null,
+      "SPC_Id": null,
+      "SSMA_TimeStamp": "AAAAAAALkwI="
+    },
+    {
+      "Id": 66,
+      "Source_Entity_Code": "XCT",
+      "Code_Name": "Turtle",
+      "Code_Current": "1",
+      "Code_Notes": null,
+      "Code_Memo": null,
+      "SPC_Id": null,
+      "SSMA_TimeStamp": "AAAAAAALkwM="
+    },
+    {
+      "Id": 67,
+      "Source_Entity_Code": "XCT",
+      "Code_Name": "Other",
+      "Code_Current": "1",
+      "Code_Notes": null,
+      "Code_Memo": null,
+      "SPC_Id": null,
+      "SSMA_TimeStamp": "AAAAAAALkwQ="
+    },
+    {
+      "Id": 68,
+      "Source_Entity_Code": "XST",
+      "Code_Name": "Smoked",
+      "Code_Current": "1",
+      "Code_Notes": null,
+      "Code_Memo": null,
+      "SPC_Id": null,
+      "SSMA_TimeStamp": "AAAAAAALkwU="
+    },
+    {
+      "Id": 69,
+      "Source_Entity_Code": "XST",
+      "Code_Name": "Unknown",
+      "Code_Current": "1",
+      "Code_Notes": null,
+      "Code_Memo": null,
+      "SPC_Id": null,
+      "SSMA_TimeStamp": "AAAAAAALkwY="
+    },
+    {
+      "Id": 70,
+      "Source_Entity_Code": "LDU",
+      "Code_Name": "Three months duration",
+      "Code_Current": "1",
+      "Code_Notes": null,
+      "Code_Memo": null,
+      "SPC_Id": null,
+      "SSMA_TimeStamp": "AAAAAAALkwc="
+    },
+    {
+      "Id": 71,
+      "Source_Entity_Code": "CUR",
+      "Code_Name": "Japan Yen",
+      "Code_Current": "1",
+      "Code_Notes": "Yen",
+      "Code_Memo": null,
+      "SPC_Id": null,
+      "SSMA_TimeStamp": "AAAAAAALkwg="
+    },
+    {
+      "Id": 72,
+      "Source_Entity_Code": "CUR",
+      "Code_Name": "US Dollar",
+      "Code_Current": "1",
+      "Code_Notes": "USD",
+      "Code_Memo": null,
+      "SPC_Id": null,
+      "SSMA_TimeStamp": "AAAAAAALkwk="
+    },
+    {
+      "Id": 73,
+      "Source_Entity_Code": "CUR",
+      "Code_Name": "Solomon Island Dollar",
+      "Code_Current": "1",
+      "Code_Notes": "SID",
+      "Code_Memo": null,
+      "SPC_Id": null,
+      "SSMA_TimeStamp": "AAAAAAALkwo="
+    },
+    {
+      "Id": 74,
+      "Source_Entity_Code": "XRS",
+      "Code_Name": "Personal consumption",
+      "Code_Current": "1",
+      "Code_Notes": null,
+      "Code_Memo": null,
+      "SPC_Id": null,
+      "SSMA_TimeStamp": "AAAAAAALkws="
+    },
+    {
+      "Id": 75,
+      "Source_Entity_Code": "XRS",
+      "Code_Name": "Product sample",
+      "Code_Current": "1",
+      "Code_Notes": null,
+      "Code_Memo": null,
+      "SPC_Id": null,
+      "SSMA_TimeStamp": "AAAAAAALkww="
+    },
+    {
+      "Id": 76,
+      "Source_Entity_Code": "XRS",
+      "Code_Name": "Gift or Decoration",
+      "Code_Current": "1",
+      "Code_Notes": null,
+      "Code_Memo": null,
+      "SPC_Id": null,
+      "SSMA_TimeStamp": "AAAAAAALkw0="
+    },
+    {
+      "Id": 77,
+      "Source_Entity_Code": "XRS",
+      "Code_Name": "Commercial export",
+      "Code_Current": "1",
+      "Code_Notes": null,
+      "Code_Memo": null,
+      "SPC_Id": null,
+      "SSMA_TimeStamp": "AAAAAAALkw4="
+    },
+    {
+      "Id": 78,
+      "Source_Entity_Code": "XRS",
+      "Code_Name": "Scientific study",
+      "Code_Current": "1",
+      "Code_Notes": null,
+      "Code_Memo": null,
+      "SPC_Id": null,
+      "SSMA_TimeStamp": "AAAAAAALkw8="
+    },
+    {
+      "Id": 79,
+      "Source_Entity_Code": "XST",
+      "Code_Name": "Neckless",
+      "Code_Current": "1",
+      "Code_Notes": null,
+      "Code_Memo": null,
+      "SPC_Id": null,
+      "SSMA_TimeStamp": "AAAAAAALkxA="
+    },
+    {
+      "Id": 80,
+      "Source_Entity_Code": "FDO",
+      "Code_Name": "Foreign Non Charter",
+      "Code_Current": "1",
+      "Code_Notes": null,
+      "Code_Memo": null,
+      "SPC_Id": null,
+      "SSMA_TimeStamp": "AAAAAAALkxE="
+    },
+    {
+      "Id": 81,
+      "Source_Entity_Code": "XST",
+      "Code_Name": "Dried",
+      "Code_Current": "1",
+      "Code_Notes": null,
+      "Code_Memo": null,
+      "SPC_Id": null,
+      "SSMA_TimeStamp": "AAAAAAALkxI="
+    },
+    {
+      "Id": 82,
+      "Source_Entity_Code": "ACT",
+      "Code_Name": "Baitfishing - Fishing",
+      "Code_Current": "1",
+      "Code_Notes": null,
+      "Code_Memo": null,
+      "SPC_Id": null,
+      "SSMA_TimeStamp": "AAAAAAALkxM="
+    },
+    {
+      "Id": 83,
+      "Source_Entity_Code": "ACT",
+      "Code_Name": "In Port",
+      "Code_Current": "1",
+      "Code_Notes": null,
+      "Code_Memo": null,
+      "SPC_Id": null,
+      "SSMA_TimeStamp": "AAAAAAALkxQ="
+    },
+    {
+      "Id": 84,
+      "Source_Entity_Code": "ACT",
+      "Code_Name": "Baitfishing - No Fishing",
+      "Code_Current": "1",
+      "Code_Notes": null,
+      "Code_Memo": null,
+      "SPC_Id": null,
+      "SSMA_TimeStamp": "AAAAAAALkxU="
+    },
+    {
+      "Id": 85,
+      "Source_Entity_Code": "PRV",
+      "Code_Name": "Honiara",
+      "Code_Current": "0",
+      "Code_Notes": "HON",
+      "Code_Memo": "Not actually a province but used in marine purchase tables as a province",
+      "SPC_Id": null,
+      "SSMA_TimeStamp": "AAAAAAALkxY="
+    },
+    {
+      "Id": 86,
+      "Source_Entity_Code": "WAT",
+      "Code_Name": "All Bilateral",
+      "Code_Current": "1",
+      "Code_Notes": null,
+      "Code_Memo": "Within Solomon Islands EEZ but excluding the territorial and archipelagic waters (i.e 30nm seaward from Waters A & 12nm from Waters B, C, D & E)",
+      "SPC_Id": null,
+      "SSMA_TimeStamp": "AAAAAAALkxc="
+    },
+    {
+      "Id": 87,
+      "Source_Entity_Code": "WAT",
+      "Code_Name": "Local Based For Charter Tuna",
+      "Code_Current": "1",
+      "Code_Notes": null,
+      "Code_Memo": "Within Solomon Islands EEZ but excluding the territorial and archipelagic waters (i.e 12nm seaward from the baselines)",
+      "SPC_Id": null,
+      "SSMA_TimeStamp": "AAAAAAALkxg="
+    },
+    {
+      "Id": 88,
+      "Source_Entity_Code": "LDP",
+      "Code_Name": "N/A",
+      "Code_Current": "1",
+      "Code_Notes": "Non Fishing",
+      "Code_Memo": null,
+      "SPC_Id": null,
+      "SSMA_TimeStamp": "AAAAAAALkxk="
+    },
+    {
+      "Id": 89,
+      "Source_Entity_Code": "WAT",
+      "Code_Name": "Local Based For Charter Shark",
+      "Code_Current": "1",
+      "Code_Notes": null,
+      "Code_Memo": "Within Solomon Islands Waters but excluding the area three nautical miles from any low water mark",
+      "SPC_Id": null,
+      "SSMA_TimeStamp": "AAAAAAALkxo="
+    },
+    {
+      "Id": 90,
+      "Source_Entity_Code": "WAT",
+      "Code_Name": "Local Purse Seine",
+      "Code_Current": "1",
+      "Code_Notes": null,
+      "Code_Memo": "Within Solomon Islands EEZ, including specifically permitted areas of the archipelagic waters and territorial seas",
+      "SPC_Id": null,
+      "SSMA_TimeStamp": "AAAAAAALkxs="
+    },
+    {
+      "Id": 91,
+      "Source_Entity_Code": "WAT",
+      "Code_Name": "Local Pole and Line",
+      "Code_Current": "1",
+      "Code_Notes": null,
+      "Code_Memo": "Within the Main Group Archipelagic and fishery limits of Solomon Islands",
+      "SPC_Id": null,
+      "SSMA_TimeStamp": "AAAAAAALkxw="
+    },
+    {
+      "Id": 92,
+      "Source_Entity_Code": "TAR",
+      "Code_Name": "Skipjack, Yellowfin, Big-eye and any incidental catch with the exception of turtles and marine mammals",
+      "Code_Current": "1",
+      "Code_Notes": "Purse Seine",
+      "Code_Memo": "[with the exception of turtles and marine mammals] added 10 Feb 09.",
+      "SPC_Id": null,
+      "SSMA_TimeStamp": "AAAAAAALk0I="
+    },
+    {
+      "Id": 93,
+      "Source_Entity_Code": "TAR",
+      "Code_Name": "Yellowfin, Big-eye, Albacore and any other incidental catch with the exception of turtles and marine mammals",
+      "Code_Current": "1",
+      "Code_Notes": "Longline",
+      "Code_Memo": "[with the exception of turtles and marine mammals] added 10 Feb 09.",
+      "SPC_Id": null,
+      "SSMA_TimeStamp": "AAAAAAALk0M="
+    },
+    {
+      "Id": 94,
+      "Source_Entity_Code": "TAR",
+      "Code_Name": "Skipjack, Yellowfin and any incidental catch with the exception of turtles and marine mammals",
+      "Code_Current": "1",
+      "Code_Notes": "Pole and Line",
+      "Code_Memo": "[with the exception of turtles and marine mammals] added 10 Feb 09.",
+      "SPC_Id": null,
+      "SSMA_TimeStamp": "AAAAAAALk0E="
+    },
+    {
+      "Id": 95,
+      "Source_Entity_Code": "TAR",
+      "Code_Name": "Shark and any other incidental catch with the exception of turtles and marine mammals",
+      "Code_Current": "1",
+      "Code_Notes": "Shark Longline",
+      "Code_Memo": "[with the exception of turtles and marine mammals] added 10 Feb 09.",
+      "SPC_Id": null,
+      "SSMA_TimeStamp": "AAAAAAALk0A="
+    },
+    {
+      "Id": 96,
+      "Source_Entity_Code": "WAT",
+      "Code_Name": "Non Fishing",
+      "Code_Current": "1",
+      "Code_Notes": null,
+      "Code_Memo": "N/A",
+      "SPC_Id": null,
+      "SSMA_TimeStamp": "AAAAAAALkyE="
+    },
+    {
+      "Id": 97,
+      "Source_Entity_Code": "TAR",
+      "Code_Name": "N/A",
+      "Code_Current": "1",
+      "Code_Notes": "Non Fishing",
+      "Code_Memo": null,
+      "SPC_Id": null,
+      "SSMA_TimeStamp": "AAAAAAALkyI="
+    },
+    {
+      "Id": 98,
+      "Source_Entity_Code": "DPR",
+      "Code_Name": "Daily, Date is for one day",
+      "Code_Current": "1",
+      "Code_Notes": null,
+      "Code_Memo": null,
+      "SPC_Id": null,
+      "SSMA_TimeStamp": "AAAAAAALkyM="
+    },
+    {
+      "Id": 99,
+      "Source_Entity_Code": "DPR",
+      "Code_Name": "Monthly, Date is first day of 1 month period",
+      "Code_Current": "1",
+      "Code_Notes": null,
+      "Code_Memo": null,
+      "SPC_Id": null,
+      "SSMA_TimeStamp": "AAAAAAALkyQ="
+    },
+    {
+      "Id": 100,
+      "Source_Entity_Code": "DPR",
+      "Code_Name": "Longer, Date is last day of many month period",
+      "Code_Current": "1",
+      "Code_Notes": null,
+      "Code_Memo": null,
+      "SPC_Id": null,
+      "SSMA_TimeStamp": "AAAAAAALkyU="
+    },
+    {
+      "Id": 101,
+      "Source_Entity_Code": "LDU",
+      "Code_Name": "120 days duration",
+      "Code_Current": "1",
+      "Code_Notes": null,
+      "Code_Memo": null,
+      "SPC_Id": null,
+      "SSMA_TimeStamp": "AAAAAAALkyY="
+    },
+    {
+      "Id": 102,
+      "Source_Entity_Code": "LDP",
+      "Code_Name": "Honiara, Noro & Tulagi",
+      "Code_Current": "1",
+      "Code_Notes": "Foreign Fishing Vessels",
+      "Code_Memo": null,
+      "SPC_Id": null,
+      "SSMA_TimeStamp": "AAAAAAALkyc="
+    },
+    {
+      "Id": 103,
+      "Source_Entity_Code": "MFO",
+      "Code_Name": "All Fisheries",
+      "Code_Current": "1",
+      "Code_Notes": "For tankers or reefers supporting all fishing vessels",
+      "Code_Memo": null,
+      "SPC_Id": null,
+      "SSMA_TimeStamp": "AAAAAAALkyg="
+    },
+    {
+      "Id": 104,
+      "Source_Entity_Code": "LDU",
+      "Code_Name": "6 months duration",
+      "Code_Current": "1",
+      "Code_Notes": null,
+      "Code_Memo": null,
+      "SPC_Id": null,
+      "SSMA_TimeStamp": "AAAAAAALkyk="
+    },
+    {
+      "Id": 105,
+      "Source_Entity_Code": "FDO",
+      "Code_Name": "Multilateral",
+      "Code_Current": "1",
+      "Code_Notes": null,
+      "Code_Memo": null,
+      "SPC_Id": null,
+      "SSMA_TimeStamp": "AAAAAAALkyo="
+    },
+    {
+      "Id": 106,
+      "Source_Entity_Code": "BNM",
+      "Code_Name": "BSP",
+      "Code_Current": "1",
+      "Code_Notes": null,
+      "Code_Memo": null,
+      "SPC_Id": null,
+      "SSMA_TimeStamp": "AAAAAAALkys="
+    },
+    {
+      "Id": 107,
+      "Source_Entity_Code": "CUR",
+      "Code_Name": "Euro",
+      "Code_Current": "1",
+      "Code_Notes": "EUR",
+      "Code_Memo": null,
+      "SPC_Id": null,
+      "SSMA_TimeStamp": "AAAAAAALkyw="
+    },
+    {
+      "Id": 108,
+      "Source_Entity_Code": "WAT",
+      "Code_Name": "US Treaty",
+      "Code_Current": "1",
+      "Code_Notes": null,
+      "Code_Memo": "Within Solomon Islands EEZ but excluding the territorial and archipelagic waters (i.e 60nm seaward from Waters A & 12nm from Waters B, C, D & E)",
+      "SPC_Id": null,
+      "SSMA_TimeStamp": "AAAAAAANrO0="
+    },
+    {
+      "Id": 109,
+      "Source_Entity_Code": "XST",
+      "Code_Name": "Loins",
+      "Code_Current": "1",
+      "Code_Notes": null,
+      "Code_Memo": null,
+      "SPC_Id": null,
+      "SSMA_TimeStamp": "AAAAAAAO6r8="
+    },
+    {
+      "Id": 110,
+      "Source_Entity_Code": "XST",
+      "Code_Name": "Fishmeal",
+      "Code_Current": "1",
+      "Code_Notes": null,
+      "Code_Memo": null,
+      "SPC_Id": null,
+      "SSMA_TimeStamp": "AAAAAAAO6sA="
+    },
+    {
+      "Id": 114,
+      "Source_Entity_Code": "MFO",
+      "Code_Name": "Tuna Group Purse Seine",
+      "Code_Current": "1",
+      "Code_Notes": null,
+      "Code_Memo": null,
+      "SPC_Id": null,
+      "SSMA_TimeStamp": "AAAAAAASV20="
+    },
+    {
+      "Id": 115,
+      "Source_Entity_Code": "MFO",
+      "Code_Name": "Tuna Scout Boat",
+      "Code_Current": "1",
+      "Code_Notes": null,
+      "Code_Memo": null,
+      "SPC_Id": null,
+      "SSMA_TimeStamp": "AAAAAAASV3E="
+    },
+    {
+      "Id": 116,
+      "Source_Entity_Code": "TAR",
+      "Code_Name": "Albacore and any inicidential catch with the exception of turtles and marine mammals",
+      "Code_Current": "1",
+      "Code_Notes": "Longline",
+      "Code_Memo": "[ with the exception of turtles and marine mammals ] added 10 feb 09",
+      "SPC_Id": null,
+      "SSMA_TimeStamp": "AAAAAAAUBSQ="
+    },
+    {
+      "Id": 117,
+      "Source_Entity_Code": "TAR",
+      "Code_Name": "Yellowfin, Big-eye and any incidential catch with the exception of turtles and marine mammals",
+      "Code_Current": "1",
+      "Code_Notes": "Longline",
+      "Code_Memo": "[ with the exception of turtles and marine mammals] added 10 feb 09",
+      "SPC_Id": null,
+      "SSMA_TimeStamp": "AAAAAAAUBSY="
+    },
+    {
+      "Id": 118,
+      "Source_Entity_Code": "WAT",
+      "Code_Name": "Local Longline Fishing Vessel",
+      "Code_Current": "1",
+      "Code_Notes": null,
+      "Code_Memo": "Within Solomon Islands EEZ, including the Archipegic Waters, but excluding  the Territorial Seas",
+      "SPC_Id": null,
+      "SSMA_TimeStamp": "AAAAAAAcc/E="
+    },
+    {
+      "Id": 119,
+      "Source_Entity_Code": "TAR",
+      "Code_Name": "Mackeral,Sardines,Squid,Baracuda,Marlin,Milkfish and  any incidential catch with the exception of turtles and marine mammals",
+      "Code_Current": "1",
+      "Code_Notes": "Light Fishing",
+      "Code_Memo": null,
+      "SPC_Id": null,
+      "SSMA_TimeStamp": "AAAAAAAo2oc="
+    },
+    {
+      "Id": 120,
+      "Source_Entity_Code": "MFO",
+      "Code_Name": "Light Fishing",
+      "Code_Current": "1",
+      "Code_Notes": null,
+      "Code_Memo": null,
+      "SPC_Id": null,
+      "SSMA_TimeStamp": "AAAAAAAo2Zw="
+    },
+    {
+      "Id": 121,
+      "Source_Entity_Code": "BNM",
+      "Code_Name": "POB",
+      "Code_Current": "1",
+      "Code_Notes": null,
+      "Code_Memo": null,
+      "SPC_Id": null,
+      "SSMA_TimeStamp": "AAAAAAAo7cg="
+    },
+    {
+      "Id": 122,
+      "Source_Entity_Code": "MFO",
+      "Code_Name": "Trap Cage Fishing ",
+      "Code_Current": "1",
+      "Code_Notes": null,
+      "Code_Memo": null,
+      "SPC_Id": null,
+      "SSMA_TimeStamp": "AAAAAABF5Jg="
+    },
+    {
+      "Id": 123,
+      "Source_Entity_Code": "TAR",
+      "Code_Name": "Reef Fish",
+      "Code_Current": "1",
+      "Code_Notes": "Trap Cage Fishing ",
+      "Code_Memo": null,
+      "SPC_Id": null,
+      "SSMA_TimeStamp": "AAAAAABF5dU="
+    },
+    {
+      "Id": 126,
+      "Source_Entity_Code": "WAT",
+      "Code_Name": "Case Fishing",
+      "Code_Current": "1",
+      "Code_Notes": "Trap Cage Fishing ",
+      "Code_Memo": "Restricted to Indispensable Reef",
+      "SPC_Id": null,
+      "SSMA_TimeStamp": "AAAAAABF5dk="
+    },
+    {
+      "Id": 127,
+      "Source_Entity_Code": "VSC",
+      "Code_Name": "PROCESSING",
+      "Code_Current": "1",
+      "Code_Notes": null,
+      "Code_Memo": null,
+      "SPC_Id": null,
+      "SSMA_TimeStamp": "AAAAAABGQGk="
+    },
+    {
+      "Id": 128,
+      "Source_Entity_Code": "XST",
+      "Code_Name": "Flakes",
+      "Code_Current": "1",
+      "Code_Notes": null,
+      "Code_Memo": null,
+      "SPC_Id": null,
+      "SSMA_TimeStamp": "AAAAAABHQEI="
+    },
+    {
+      "Id": 134,
+      "Source_Entity_Code": "BNM",
+      "Code_Name": "BRED",
+      "Code_Current": "1",
+      "Code_Notes": null,
+      "Code_Memo": null,
+      "SPC_Id": null,
+      "SSMA_TimeStamp": "AAAAAABHZ+o="
+    }
+  ]
+}
