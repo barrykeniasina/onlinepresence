@@ -8,24 +8,24 @@ services:
       ACCEPT_EULA: Y
       SA_PASSWORD: "${DB_PASSWORD:-HvQfOKgVcNMM0G3MX755qr9n7!}"
       MSSQL_PID: 'Developer'
-      MSSQL_TCP_PORT: '${DB_PORT:-1433}'
+      MSSQL_TCP_PORT: '${DB_PORT:-1434}'
       DB_PASSWORD: '${DB_PASSWORD:-HvQfOKgVcNMM0G3MX755qr9n7!}'
       DB_DATABASE: '${DB_DATABASE:-main}'
       DB_USERNAME: '${DB_USERNAME:-sa}'
-      DB_PORT: '${DB_PORT:-1433}'
+      DB_PORT: '${DB_PORT:-1434}'
       DB_SCHEMA: '${DB_SCHEMA:-app}'
     ports:
-      - '${DB_PORT:-1433}:1433'
+      - '${DB_PORT:-1434}:1433'
     volumes:
       - ms-sqlserver-data:/var/opt/mssql
 
   app:
     build: ./docker/php
     volumes:
-      - ./:/var/www/project2a
+      - ./:/var/www/onlinepresence
     depends_on:
       - sqlserver
-    working_dir: /var/www/project2a
+    working_dir: /var/www/onlinepresence
 
   nginx:
     build: ./docker/nginx
