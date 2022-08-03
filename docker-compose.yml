@@ -8,14 +8,14 @@ services:
       ACCEPT_EULA: Y
       SA_PASSWORD: "${DB_PASSWORD:-HvQfOKgVcNMM0G3MX755qr9n7!}"
       MSSQL_PID: 'Developer'
-      MSSQL_TCP_PORT: '${DB_PORT:-1434}'
+      MSSQL_TCP_PORT: '${DB_PORT:-10022}'
       DB_PASSWORD: '${DB_PASSWORD:-HvQfOKgVcNMM0G3MX755qr9n7!}'
       DB_DATABASE: '${DB_DATABASE:-main}'
       DB_USERNAME: '${DB_USERNAME:-sa}'
-      DB_PORT: '${DB_PORT:-1434}'
+      DB_PORT: '${DB_PORT:-10022}'
       DB_SCHEMA: '${DB_SCHEMA:-app}'
     ports:
-      - '${DB_PORT:-1434}:1433'
+      - '${DB_PORT:-10022}:10022'
     volumes:
       - ms-sqlserver-data:/var/opt/mssql
 
